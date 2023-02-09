@@ -1,4 +1,4 @@
-package Helpers;
+package Assets;
 
 import java.util.Scanner;
 import java.util.TreeMap;

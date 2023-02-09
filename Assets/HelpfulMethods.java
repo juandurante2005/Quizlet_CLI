@@ -1,4 +1,4 @@
-package Helpers;
+package Assets;
 
 import java.io.File;
 import java.io.FileWriter;
