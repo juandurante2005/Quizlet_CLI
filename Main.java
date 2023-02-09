@@ -6,6 +6,7 @@ import static java.lang.System.*;
 import Helpers.*;
 public class Main
 {
+    
     public static void main(String[] args) throws IOException{
 
 
@@ -37,7 +38,7 @@ public class Main
         else if(response.equals("l")){
             ArrayList<String> list = HelpfulMethods.getSetList();
             for(String val : list){
-                out.print(val + "\t\t");    
+                out.print(val + "\t\t");
             }
             out.println("\n");
         }
